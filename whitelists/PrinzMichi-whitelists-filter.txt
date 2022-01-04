@@ -343,6 +343,9 @@
 # Toniebox
 @@||cdn-global.configcat.com^$important
 
+# Telegram
+@@||web.telegram.org^$important
+
 # Twitch
 @@||api.twitch.tv^$important
 @@||ext-twitch.tv^$important
