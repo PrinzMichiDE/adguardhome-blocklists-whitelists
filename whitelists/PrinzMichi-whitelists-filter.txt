@@ -423,3 +423,5 @@
 # ZooPlus
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
+
+@@||static-pub.highwebmedia.com^$important
