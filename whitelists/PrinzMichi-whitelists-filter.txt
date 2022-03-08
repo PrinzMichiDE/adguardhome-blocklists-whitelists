@@ -155,6 +155,8 @@
 # Giphy
 @@||giphy.com^$important
 
+
+
 # Github
 @@||alive.github.com^$important
 @@||api.github.com^$important
@@ -200,6 +202,7 @@
 @@||userlocation.googleapis.com^$important
 @@||video-stats.l.google.com^$important
 @@||yt3.ggpht.com^$important
+@@||www.googleadservices.com^$important
 
 # Gravatar
 @@||gravatar.com^$important
