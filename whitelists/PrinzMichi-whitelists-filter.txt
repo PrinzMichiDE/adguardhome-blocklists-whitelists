@@ -1,5 +1,8 @@
 ! Whitelist - Domains
 
+@@||www.deepl.com^$important
+
+
 # Akamai Technologies
 @@||akadns.net^$important
 @@||akamai.net^$important
