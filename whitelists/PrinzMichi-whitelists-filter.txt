@@ -998,6 +998,9 @@ iesnare.com
 bat.bing.com
 ! https://github.com/AdguardTeam/AdguardDNS/issues/125
 qualtrics.com
+! Deepl
+www.deepl.com
+deepl.com
 ! Fixing redirects https://forum.adguard.com/index.php?threads/fiverr-com.22612/
 atdmt.com
 ! Fixing ad block detection on a lot of the sites
