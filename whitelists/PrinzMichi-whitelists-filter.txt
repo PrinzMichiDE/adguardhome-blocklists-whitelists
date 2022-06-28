@@ -1,6 +1,7 @@
 ! Whitelist - Domains
 
 @@||www.deepl.com^$important
+@@||m.exactag.com^$important
 
 
 # Akamai Technologies
