@@ -289,6 +289,26 @@
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
 
+# Lovoo
+@@||ms.applvn.com^$important
+@@||rt.applovin.com^$important
+@@||api.lovoo.com^$important
+@@||api.gateway.lovoo.com^$important
+@@||ms.applovin.com^$important
+@@||ms4.applovin.com^$importan
+||applovin.com^$important
+@@||img.lovoo.com^$important
+@@||prod-ms.applovin.com^$important
+@@||stage-a.applovin.com^$important
+@@||ms4.applovin.com^$important
+@@||auth.gateway.lovoo.com^$important
+@@||a4.applovin.com^$important
+@@||video-api.lovoo.com^$important
+@@||tmg-stream.lovoo.com^$important
+@@||cl-messaging.lovoo.com^$important
+@@||assets.applovin.com^$important
+
+
 # Otto
 @@||i.otto.de^$important
 @@||pxc.otto.de^$important
